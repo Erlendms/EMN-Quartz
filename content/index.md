@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Erlend Mekker Nice
 ---
 
 This is a blank Quartz installation.
