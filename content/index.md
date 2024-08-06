@@ -15,8 +15,6 @@ Vi snakker inn- og utganger integrert i brettet (også balanserte), lekker patch
 
 [[Deler og leverandører]]
 
-[[Hvordan jeg liker å gjøre ting]]
-
 [[Galleri]]
 
 [[Om og kontakt]]
