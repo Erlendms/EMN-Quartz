@@ -1,3 +1,7 @@
+---
+title: Noen favoritter
+---
+
 Her er noen utstyrs-favoritter jeg anbefaler og liker å lage brett med.
 ## Praktiske løsninger
 * Temple Audio-brett
