@@ -111,7 +111,12 @@ a {
 .navigation-links {
   margin: 0.5rem 0 0.2rem calc(-1 * clamp(0rem, -0.457rem + 1.829vw, 0.4rem));
   white-space: nowrap;
-  text-align: center;
+  position: sticky;
+  background: var(--light);
+  padding: 0.5rem 1rem;
+  width: fit-content;
+  margin-inline: auto;
+  border-radius: 0px 0px 8px 8px;
 }
 
 .navigation-links a {
