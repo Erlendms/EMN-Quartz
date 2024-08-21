@@ -23,6 +23,7 @@ a {
   text-decoration-thickness: var(--underline-thickness);
   transition: all 0.35s ease-in-out;
   color: var(--secondary);
+  font-weight: unset;
 
   @media (hover: hover) {
     &:hover {
