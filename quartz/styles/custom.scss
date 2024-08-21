@@ -80,7 +80,7 @@ a {
     width: 100%;
     text-decoration: none;
     color: transparent !important;
-    padding: 3rem;
+    padding: clamp(1rem, 0.283rem + 3.019vw, 3rem);
   }
 }
 
@@ -133,6 +133,7 @@ a {
 
 .tag-line {
   text-align: center;
+  color: var(--gray);
 }
 
 .darkmode {
