@@ -77,7 +77,7 @@ a {
   a,
   a:hover {
     text-decoration: none;
-    color: transparent;
+    color: transparent !important;
   }
 }
 
@@ -207,7 +207,7 @@ ul {
   li {
     &::marker {
       font-weight: 700;
-      color: var(--tertiary);
+      color: var(--tertiary-b);
     }
   }
 }
