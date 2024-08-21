@@ -116,11 +116,12 @@ a {
 .navigation-links a {
   margin-inline: 0.3rem;
   border-right: 2px solid var(--tertiary);
-  padding-right: 0.6rem;
+  padding-inline: 0.6rem 0.3rem;
   text-decoration: none;
   font-size: clamp(0.8rem, 0.646rem + 0.615vw, 1.2rem);
   &:first-of-type {
     border-left: 2px solid var(--tertiary);
+    padding-left: 0.6rem;
   }
 }
 
