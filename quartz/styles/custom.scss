@@ -64,8 +64,8 @@ a {
     background-image: url(static/og-image.png);
   }
 
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
+  // background-position: center;
   background-repeat: no-repeat;
   font-size: 2.5rem;
   transition: all 0.35s ease-in-out;
@@ -206,7 +206,6 @@ ol,
 ul {
   li {
     &::marker {
-      font-weight: 700;
       color: var(--gray);
     }
   }
