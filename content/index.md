@@ -4,10 +4,7 @@ title: Erlend Mekker Nice 💫
 <div class="tag-line">
 <p>Pedalbrett, og andre tekniske løsninger, som er skikkelig <em>nice</em>.</p>
 </div>
-<div class="navigation-links">
-<a href="https://erlendmekkernice.cool/Eksempler-og-galleri">Eksempler og galleri</a>
-<a href="https://erlendmekkernice.cool/Pris-og-kontaktinfo">Pris og kontaktinfo</a>
-<a href="https://havn.blog">Blog</a>
+<div class="navigation-links"><a href="https://erlendmekkernice.cool/Eksempler-og-galleri">Eksempler og galleri</a><a href="https://erlendmekkernice.cool/Pris-og-kontaktinfo">Pris og kontaktinfo</a><a href="https://havn.blog">Blog</a>
 </div>
 
 ![[76B5E0E4-B067-4BD5-8057-6A95AC9A3B5D_1_105_c.jpeg]]
