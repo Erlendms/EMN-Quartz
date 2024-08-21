@@ -2,14 +2,15 @@
 title: Erlend Mekker Nice 💫
 ---
 <div class="navigation-links">
-<a href="https://erlendmekkernice.cool/eksempler_og_galleri">Eksempler og galleri</a>
-<a href="https://erlendmekkernice.cool/pris_og_kontaktinfo">Pris og kontaktinfo</a>
+<a href="https://erlendmekkernice.cool/Eksempler_og_galleri">Eksempler og galleri</a>
+<a href="https://erlendmekkernice.cool/Pris_og_kontaktinfo">Pris og kontaktinfo</a>
 <a href="https://havn.blog">Blog</a>
 </div>
 
+[[Eksempler og galleri]]
+
 [[Pris og kontaktinfo]]
 
-[[Eksempler og galleri]]
 ### Pedalbrett, og andre tekniske løsninger, som er skikkelig *nice*.
 
 ## Her er noen scenarioer hvor hjelp av meg kan være nyttig:
