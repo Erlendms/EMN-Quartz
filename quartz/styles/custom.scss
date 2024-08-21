@@ -57,10 +57,10 @@ a {
 }
 
 .page-title {
-  background-image: url(static/klondike_logotype.png);
+  background-image: url(static/og-image.png);
 
   @media (prefers-color-scheme: dark) {
-    background-image: url(static/klondike_logotype_dm.png);
+    background-image: url(static/og-image.png);
   }
 
   background-size: cover;

@@ -20,5 +20,6 @@ title: Erlend Mekker Nice 💫
 
 Ta en kikk på [[Eksempler og galleri]] – og hvis det virker interessant, sjekk [[Pris og kontaktinfo]]. Jeg lager gjerne et uforpliktende tilbud!
 
-Dette blir nice. 👌🏻
+Dette blir *nice*. 👌🏻
+
 -Erlend
