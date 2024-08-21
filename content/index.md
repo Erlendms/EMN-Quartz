@@ -7,7 +7,7 @@ title: Erlend Mekker Nice 💫
 <a href="https://havn.blog">Blog</a>
 </div>
 
-### Pedalbrett, og andre tekniske løsninger, som er skikkelig *nice*.
+Pedalbrett, og andre tekniske løsninger, som er skikkelig *nice*.
 
 ## Her er noen scenarioer hvor hjelp av meg kan være nyttig:
 
@@ -23,3 +23,5 @@ Ta en kikk på [[Eksempler og galleri]] – og hvis det virker interessant, sjek
 Dette blir *nice*. 👌🏻
 
 -Erlend
+
+Lenke til [noe annet](https://havn.blog) flott.

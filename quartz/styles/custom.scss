@@ -198,3 +198,15 @@ li.section-li > .section > .meta {
 li.section-li > .section {
   grid-template-columns: 20em 4fr 2fr;
 }
+
+// Lists
+
+ol,
+ul {
+  li {
+    &::marker {
+      font-weight: 700;
+      color: var(--tertiary);
+    }
+  }
+}
