@@ -18,21 +18,21 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
+    // Component.ArticleTitle(),
+    // Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
+    // Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    // Component.Backlinks(),
   ],
 }
 
@@ -42,7 +42,7 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
+    // Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
