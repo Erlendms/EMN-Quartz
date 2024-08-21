@@ -7,6 +7,8 @@ title: Erlend Mekker Nice 💫
 <a href="https://havn.blog">Blog</a>
 </div>
 
+![[76B5E0E4-B067-4BD5-8057-6A95AC9A3B5D_1_105_c.jpeg]]
+
 Pedalbrett, og andre tekniske løsninger, som er skikkelig *nice*.
 
 ## Her er noen scenarioer hvor hjelp av meg kan være nyttig:
