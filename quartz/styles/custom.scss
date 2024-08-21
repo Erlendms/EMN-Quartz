@@ -67,7 +67,7 @@ a {
   background-size: contain;
   // background-position: center;
   background-repeat: no-repeat;
-  font-size: 7.7rem;
+  font-size: 5rem;
   transition: all 0.35s ease-in-out;
 
   &:hover {
@@ -78,6 +78,7 @@ a {
   a:hover {
     text-decoration: none;
     color: transparent !important;
+    padding: 3rem;
   }
 }
 
