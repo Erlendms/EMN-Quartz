@@ -6,6 +6,7 @@ title: Erlend Mekker Nice 💫
 <a href="https://erlendmekkernice.cool/Pris-og-kontaktinfo">Pris og kontaktinfo</a>
 <a href="https://havn.blog">Blog</a>
 </div>
+
 ### Pedalbrett, og andre tekniske løsninger, som er skikkelig *nice*.
 
 ## Her er noen scenarioer hvor hjelp av meg kan være nyttig:
@@ -17,7 +18,7 @@ title: Erlend Mekker Nice 💫
 5) Du vil redusere antall koli når det rigges, og bare kunne legge fram en multi og koble til alt på høyresida av brettet.
 6) … eller en kombinasjon!
 
-Ta en kikk på *Eksempler og galleri* – og hvis det virker interessant, sjekk *Pris og kontaktinfo*. Jeg lager gjerne et uforpliktende tilbud!
+Ta en kikk på [[Eksempler og galleri]] – og hvis det virker interessant, sjekk [[Pris og kontaktinfo]]. Jeg lager gjerne et uforpliktende tilbud!
 
 Dette blir nice. 👌🏻
 -Erlend
