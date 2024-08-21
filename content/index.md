@@ -7,11 +7,11 @@ title: Erlend Mekker Nice 💫
 <a href="https://havn.blog">Blog</a>
 </div>
 
+**Pedalbrett, og andre tekniske løsninger, som er skikkelig *nice*.**
+
 ![[76B5E0E4-B067-4BD5-8057-6A95AC9A3B5D_1_105_c.jpeg]]
 
-Pedalbrett, og andre tekniske løsninger, som er skikkelig *nice*.
-
-## Her er noen scenarioer hvor hjelp av meg kan være nyttig:
+### Her er noen scenarioer hvor hjelp av meg kan være nyttig:
 
 1) Du er lei av et kaotisk pedalbrett, og panikken når noe ikke virker, men du ikke finner ut hvilken kabel (eller pedal??) som er dårlig.
 2) Du ønsker deg rett og slett et _smud_ pedalbrett. Kanskje mangler du også de fleste pedalene, og vet ikke helt hvor du skal begynne.
