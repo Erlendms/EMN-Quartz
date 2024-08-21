@@ -1,3 +1,203 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+@use "./variables.scss" as *;
+@use "./base.scss";
+// put your custom CSS here!
+
+:root {
+  --page-margin: clamp(0.5rem, 0.308rem + 0.769vw, 1rem);
+  --body-margin: clamp(0.1rem, -0.929rem + 4.114vw, 1rem);
+  --underline-thickness: clamp(0.063rem, -0.038rem + 0.4vw, 0.125rem);
+}
+
+.page {
+  padding: 0 var(--page-margin);
+  & > #quartz-body {
+    width: calc(100% - (2 * var(--body-margin)));
+    margin-left: var(--body-margin);
+  }
+}
+
+// Links
+a {
+  text-decoration-line: underline;
+  text-decoration-color: var(--tertiary);
+  text-decoration-thickness: var(--underline-thickness);
+  transition: all 0.35s ease-in-out;
+  color: var(--secondary);
+
+  @media (hover: hover) {
+    &:hover {
+      color: var(--tertiary-b);
+      text-decoration-color: var(--light);
+      @supports (-moz-appearance: none) {
+        text-decoration-thickness: 0;
+      }
+    }
+  }
+
+  // &.internal {
+  //   text-decoration: underline var(--tertiary);
+  //   text-decoration-thickness: 2px;
+  //   background-color: unset;
+  //   padding: unset;
+  //   border-radius: unset;
+  //   line-height: unset;
+  // }
+}
+
+// Header
+
+.page .page-header {
+  margin-top: 4rem;
+}
+
+@media (max-width: 1510px) {
+  .page .page-header {
+    margin-top: 0;
+  }
+}
+
+.page-title {
+  background-image: url(static/klondike_logotype.png);
+
+  @media (prefers-color-scheme: dark) {
+    background-image: url(static/klondike_logotype_dm.png);
+  }
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 2.5rem;
+  transition: all 0.35s ease-in-out;
+
+  &:hover {
+    opacity: 0.7;
+  }
+
+  a,
+  a:hover {
+    text-decoration: none;
+    color: transparent;
+  }
+}
+
+:root[saved-theme="dark"] {
+  .page-title {
+    background-image: url(static/klondike_logotype_dm.png); /* Dark mode logo */
+  }
+}
+
+.article-title {
+  display: none;
+}
+
+.breadcrumb-element {
+  p {
+    color: var(--tertiary);
+  }
+  a {
+    font-weight: $normalWeight;
+    text-decoration: none;
+  }
+  &:last-of-type a {
+    margin-bottom: 0.2em;
+    font-weight: $semiBoldWeight;
+    font-size: clamp(1.4rem, 1.169rem + 0.923vw, 2rem);
+  }
+}
+.navigation-links {
+  margin: 0.5rem 0 0.2rem calc(-1 * clamp(0rem, -0.457rem + 1.829vw, 0.4rem));
+  white-space: nowrap;
+}
+
+.navigation-links a {
+  margin-inline: 0.3rem;
+  border-right: 2px solid var(--tertiary);
+  padding-right: 0.6rem;
+  text-decoration: none;
+  font-size: clamp(0.8rem, 0.646rem + 0.615vw, 1.2rem);
+}
+
+// Media
+
+img,
+iframe,
+video,
+.lazy-placeholder {
+  border-radius: $imageRadius;
+  box-shadow: 3px 3px 18px #00000040;
+}
+
+// Footer
+footer p {
+  opacity: 0.5;
+  a {
+    text-decoration: none;
+  }
+}
+.footer-link {
+  font-size: 18px;
+  margin-top: 8px;
+  margin-right: 8px;
+}
+
+p.song-title {
+  margin-top: -3rem;
+  font-size: 0;
+}
+
+// Chords
+
+h4 {
+  margin-bottom: 0;
+}
+
+button.clipboard-button {
+  display: none;
+}
+
+pre {
+  border-radius: $imageRadius;
+  padding: 0 0.9rem;
+  margin-left: -1.14rem;
+}
+
+pre > code {
+  color: var(--tertiary-b);
+  font-size: 1.1rem;
+}
+
+p:has(code):not(:has(a)) {
+  margin: 0 0 -0.4rem 0;
+  code {
+    background: none;
+    color: var(--tertiary-b);
+    font-weight: $boldWeight;
+  }
+}
+
+p.lyric {
+  margin: 0;
+}
+
+.darkmode svg {
+  fill: var(--tertiary);
+  display: none;
+}
+
+// Folder page
+
+li.section-li > .section > .meta {
+  display: none;
+}
+.desc {
+  a,
+  a:hover {
+    text-decoration: none;
+  }
+}
+li.section-li > .section {
+  grid-template-columns: 20em 4fr 2fr;
+}
