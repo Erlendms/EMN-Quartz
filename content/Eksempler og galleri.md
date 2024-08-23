@@ -7,13 +7,17 @@ Her er noen av bretta jeg har mekka, og hva som var hensikten/bestillinga.
 
 **Formål og bruksområde:** I løpet av konsertene byttes det mellom el-bass og akk-gitar. Bryteren i midten bytter inngang og utgang og muter (for stemming). Når brettet er i bass-modus går signalet Stemmer → Kompressor → Bass-preamp. Og når det er i akk-modus går det Stemmer → Klang → Akk-preamp. Strøm og inn- og utganger i sida på brettet.
 
-![[D36E8DA3-47EB-4CF8-8C64-6FEC039BDC33_1_201_a.heic]]
+![[IMG_4073.jpeg]]
 
 ---
 
 **Formål og bruksområde:** Spiller el- og akk-gitar. Bryteren i midten bytter utgang (og noe andre greier?) , mens inngangen byttes ved at en trådløse sender flyttes til den andre gitaren. Den trådløse mottakeren ligger under brettet og får strøm fra strømforsyninga til pedalene. DI-boks i sida av brettet.
 
+![[2AA54893-4365-49A9-BBE1-FE85C7C5615D_1_105_c.jpeg]]
 
+![[2E5FE293-F3C8-4167-978F-1C779033EAD2_1_105_c.jpeg]]
+
+![[57DC47AC-3331-4068-A2DC-54AC43741969_1_105_c.jpeg]]
 
 **Formål og bruksområde:** Bytter mellom to basser. Relativt standard oppsett, men det spesielle her er det grusomt fine preampen under brettet. Kompakt, men alltid top lyd!
 
