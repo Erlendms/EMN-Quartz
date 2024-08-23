@@ -152,7 +152,8 @@ a {
   z-index: 100;
   display: flex;
   justify-content: center;
-  width: 100%;
+  width: calc(100% + var(--page-margin));
+  transform: translateY(-0.5 * var(--page-margin));
   box-sizing: border-box;
   white-space: nowrap;
   position: sticky;
