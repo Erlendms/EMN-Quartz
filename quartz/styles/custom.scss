@@ -47,9 +47,6 @@
   font-style: italic;
 }
 
-body {
-}
-
 .page {
   padding: 0 var(--page-margin);
   & > #quartz-body {
@@ -144,6 +141,10 @@ a {
     font-size: clamp(1.4rem, 1.169rem + 0.923vw, 2rem);
   }
 }
+
+.navigation-conatiner {
+  overflow-x: hidden;
+}
 .navigation-links {
   display: flex;
   justify-content: center;
@@ -159,10 +160,10 @@ a {
 }
 
 .navigation-links a {
-  // margin-inline: 0.3rem;
   border-right: 2px solid var(--tertiary);
   padding-inline: 0.6rem 0.6rem;
   text-decoration: none;
+  font-weight: 600;
   font-size: clamp(0.9rem, 0.386rem + 2.162vw, 1.4rem);
   &:first-of-type {
     border-left: 2px solid var(--tertiary);
