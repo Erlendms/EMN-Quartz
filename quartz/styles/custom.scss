@@ -47,13 +47,13 @@
   font-style: italic;
 }
 
-// .page {
-//   padding: 0 var(--page-margin);
-//   & > #quartz-body {
-//     width: calc(100% - (2 * var(--body-margin)));
-//     margin-left: var(--body-margin);
-//   }
-// }
+.page {
+  padding: 0 var(--page-margin);
+  & > #quartz-body {
+    width: calc(100% - (2 * var(--body-margin)));
+    margin-left: var(--body-margin);
+  }
+}
 
 // Links
 .internal[role="anchor"] {
