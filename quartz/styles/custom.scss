@@ -47,6 +47,12 @@
   font-style: italic;
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 .page {
   box-sizing: border-box;
   padding: 0 var(--page-margin);
@@ -146,6 +152,7 @@ a {
 .navigation-conatiner {
 }
 .navigation-links {
+  z-index: 100;
   display: flex;
   justify-content: center;
   width: 100%;
