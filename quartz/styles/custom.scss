@@ -70,7 +70,7 @@ a {
   text-decoration-color: var(--tertiary);
   text-decoration-thickness: var(--underline-thickness);
   transition: all 0.35s ease-in-out;
-  color: var(--secondary);
+  color: var(--gray);
   font-weight: unset;
 
   @media (hover: hover) {
@@ -287,4 +287,5 @@ hr {
   background-color: var(--secondary);
   width: 80%;
   height: 0.2rem;
+  border-radius: $imageRadius;
 }
