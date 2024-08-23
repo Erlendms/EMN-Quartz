@@ -109,6 +109,8 @@ a {
   }
 }
 .navigation-links {
+  display: flex;
+  justify-content: center;
   white-space: nowrap;
   position: sticky;
   top: 0;
@@ -124,7 +126,7 @@ a {
   border-right: 2px solid var(--tertiary);
   padding-inline: 0.6rem 0.6rem;
   text-decoration: none;
-  font-size: clamp(0.8rem, 0.646rem + 0.615vw, 1.2rem);
+  font-size: clamp(0.6rem, 0.385rem + 0.906vw, 1.2rem);
   &:first-of-type {
     border-left: 2px solid var(--tertiary);
   }
