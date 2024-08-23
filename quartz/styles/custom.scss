@@ -111,13 +111,14 @@ a {
 .navigation-links {
   display: flex;
   justify-content: center;
+  width: calc(100% + var(--page-margin));
+  box-sizing: border-box;
+  transform: translatex(calc(-0.5 * var(--page-margin)));
   white-space: nowrap;
   position: sticky;
   top: 0;
   background: var(--light);
   padding: 0.5rem 1rem;
-  width: fit-content;
-  margin-inline: auto;
   border-radius: 0px 0px 8px 8px;
 }
 
