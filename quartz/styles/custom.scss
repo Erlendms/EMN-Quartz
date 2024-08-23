@@ -56,6 +56,9 @@
 }
 
 // Links
+.internal[role="anchor"] {
+  display: none;
+}
 a {
   text-decoration-line: underline;
   text-decoration-color: var(--tertiary);
@@ -166,7 +169,7 @@ a {
   border-right: 2px solid var(--tertiary);
   padding-inline: 0.6rem 0.6rem;
   text-decoration: none;
-  font-size: clamp(0.7rem, 0.186rem + 2.162vw, 1.2rem);
+  font-size: clamp(0.9rem, 0.386rem + 2.162vw, 1.4rem);
   &:first-of-type {
     border-left: 2px solid var(--tertiary);
   }
