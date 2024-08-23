@@ -52,6 +52,7 @@
   & > #quartz-body {
     width: calc(100% - (2 * var(--body-margin)));
     margin-left: var(--body-margin);
+    overflow-x: hidden;
   }
 }
 
