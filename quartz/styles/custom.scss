@@ -153,7 +153,7 @@ a {
   display: flex;
   justify-content: center;
   width: calc(100% + var(--page-margin));
-  transform: translateY(-0.5 * var(--page-margin));
+  transform: translatex(calc(-0.5 * var(--page-margin)));
   box-sizing: border-box;
   white-space: nowrap;
   position: sticky;
