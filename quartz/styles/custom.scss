@@ -76,15 +76,6 @@ a {
       }
     }
   }
-
-  // &.internal {
-  //   text-decoration: underline var(--tertiary);
-  //   text-decoration-thickness: 2px;
-  //   background-color: unset;
-  //   padding: unset;
-  //   border-radius: unset;
-  //   line-height: unset;
-  // }
 }
 
 // Header
@@ -153,9 +144,8 @@ a {
 .navigation-links {
   display: flex;
   justify-content: center;
-  width: calc(100% + var(--page-margin));
+  width: 100%;
   box-sizing: border-box;
-  transform: translatex(calc(-0.5 * var(--page-margin)));
   white-space: nowrap;
   position: sticky;
   top: 0;

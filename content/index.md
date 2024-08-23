@@ -23,5 +23,3 @@ Ta en kikk på [[Eksempler og galleri]] – og hvis det virker interessant, sjek
 Dette blir *nice*. 👌🏻
 
 -Erlend
-
-Lenke til [noe annet](https://havn.blog) flott.
