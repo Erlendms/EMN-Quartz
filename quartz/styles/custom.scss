@@ -54,7 +54,6 @@
 }
 
 .page {
-  box-sizing: border-box;
   padding: 0 var(--page-margin);
   & > #quartz-body {
     width: calc(100% - (2 * var(--body-margin)));
@@ -149,8 +148,6 @@ a {
   }
 }
 
-.navigation-conatiner {
-}
 .navigation-links {
   z-index: 100;
   display: flex;
@@ -191,12 +188,12 @@ img,
 iframe,
 video,
 .lazy-placeholder {
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
+  // position: relative;
+  // left: 50%;
+  // transform: translateX(-50%);
   border-radius: $imageRadius;
   box-shadow: 3px 3px 18px #00000040;
-  max-width: 90%;
+  // max-width: 90%;
   margin-inline: auto;
 }
 
