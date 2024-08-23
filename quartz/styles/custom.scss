@@ -49,10 +49,10 @@
 
 .page {
   padding: 0 var(--page-margin);
+  overflow-x: hidden;
   & > #quartz-body {
     width: calc(100% - (2 * var(--body-margin)));
     margin-left: var(--body-margin);
-    overflow-x: hidden;
   }
 }
 
