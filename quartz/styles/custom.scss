@@ -145,8 +145,9 @@ a {
 .navigation-links {
   display: flex;
   justify-content: center;
-  width: 100%;
+  width: calc(100% + var(--page-margin));
   box-sizing: border-box;
+  transform: translatex(calc(-0.5 * var(--page-margin)));
   white-space: nowrap;
   position: sticky;
   top: 0;
