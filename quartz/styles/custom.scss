@@ -3,12 +3,25 @@
 // put your custom CSS here!
 
 :root {
-  --headerFont: "Comic Neue";
+  --headerFont: "Comic Neue" !important;
+  --bodyFont: "Comic Neue" !important;
   --page-margin: clamp(0.5rem, 0.308rem + 0.769vw, 1rem);
   --body-margin: clamp(0.1rem, -0.929rem + 4.114vw, 1rem);
   --underline-thickness: clamp(0.063rem, -0.038rem + 0.4vw, 0.125rem);
 }
 
+@font-face {
+  font-family: "Comic Neue";
+  src: url("../static/ComicNeue-Light.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Comic Neue";
+  src: url("../static/ComicNeue-LightItalic.woff2") format("woff2");
+  font-weight: 200;
+  font-style: italic;
+}
 @font-face {
   font-family: "Comic Neue";
   src: url("../static/ComicNeue-Regular.woff2") format("woff2");
@@ -19,6 +32,18 @@
   font-family: "Comic Neue";
   src: url("../static/ComicNeue-Italic.woff2") format("woff2");
   font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Comic Neue";
+  src: url("../static/ComicNeue-Bold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Comic Neue";
+  src: url("../static/ComicNeue-BoldItalic.woff2") format("woff2");
+  font-weight: 600;
   font-style: italic;
 }
 
