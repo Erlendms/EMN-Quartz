@@ -51,7 +51,7 @@
   padding: 0 var(--page-margin);
   & > #quartz-body {
     width: calc(100% - (2 * var(--body-margin)));
-    margin-left: var(--body-margin);
+    margin-inline: var(--body-margin);
   }
 }
 
