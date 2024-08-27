@@ -8,9 +8,19 @@ Her er noen av bretta jeg har mekka, og hva som var hensikten/bestillinga.
 
 ---
 
-**Formål og bruksområde:** I løpet av konsertene byttes det mellom el-bass og akk-gitar. Bryteren i midten bytter inngang og utgang og muter (for stemming). Når brettet er i bass-modus går signalet Stemmer → Kompressor → Bass-preamp. Og når det er i akk-modus går det Stemmer → Klang → Akk-preamp. Strøm og inn- og utganger i sida på brettet.
+### Bass + akk-gitar
 
 ![[IMG_4073.jpeg]]
+
+**Formål og bruksområde:** I løpet av konsertene byttes det mellom el-bass og akk-gitar. Bryteren i midten bytter inngang og utgang og muter (for stemming). Når brettet er i bass-modus går signalet Stemmer → Kompressor → Bass-preamp. Og når det er i akk-modus går det Stemmer → Klang → Akk-preamp. Strøm og inn- og utganger i sida på brettet.
+
+![[30BDD616-14F2-4270-AC07-0F8C9277424B_1_201_a.heic]]
+
+Den ene sida har jack-innganger og -utganger. 👆🏻
+
+![[A16B15D9-E8DB-4BA7-ACFF-740357403FEF_1_201_a.heic]]
+
+Den andre har strøm og balanserte utganger. 👆🏻
 
 ---
 
