@@ -24,4 +24,4 @@ Enkel stereo-splitter ment for å ha under brettet. For eks. fin om du spiller e
 **1.520 kr**
 
 ---
-**Biler, og flere pedaler, kommer snart!**
+**Bilder, og flere pedaler, kommer snart!**

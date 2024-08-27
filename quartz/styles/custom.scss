@@ -160,6 +160,7 @@ a {
   top: 0;
   background: var(--light);
   padding: 0.5rem 1rem;
+  margin-bottom: clamp(1rem, 0.2rem + 3.2vw, 2rem);
   border-radius: 0px 0px 8px 8px;
   box-shadow: 6px 9px 10px #00000010;
 }
