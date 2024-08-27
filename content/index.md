@@ -18,7 +18,7 @@ title: Erlend Mekker Nice 💫
 5) Du vil redusere antall koli når det rigges, og bare kunne legge fram en multi og koble til alt på høyresida av brettet.
 6) … eller en kombinasjon!
 
-Ta en kikk på [[Eksempler og galleri]] – og hvis det virker interessant, sjekk [[Pris og kontaktinfo]]. Jeg lager gjerne et uforpliktende tilbud!
+Ta en kikk på *[[Eksempler og galleri]]* – og hvis det virker interessant, sjekk *[[Pris og kontaktinfo]]*. Jeg lager gjerne et uforpliktende tilbud!
 
 Dette blir *nice*. 👌🏻
 

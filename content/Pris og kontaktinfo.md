@@ -1,4 +1,4 @@
 ---
 title: Pris og kontaktinfo 💫
 ---
-Her kommer pris og kontaktinfo.
+Dersom noe fra *[[Eksempler og galleri]]* virka interessant, så tar jeg gjerne en uforpliktende prat.
