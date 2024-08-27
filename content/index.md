@@ -23,3 +23,5 @@ Ta en kikk på *[[Eksempler og galleri]]* – og hvis det virker interessant, sj
 Dette blir *nice*. 👌🏻
 
 -Erlend
+
+![[glitter.webp]]
