@@ -9,7 +9,6 @@ Her er noen av bretta jeg har mekka, og hva som var hensikten/bestillinga.
 ---
 
 ### Brett 1: Bass + akk-gitar
-
 ![[IMG_4073.jpeg]]
 **Formål og bruksområde:** I løpet av konsertene byttes det mellom el-bass og akk-gitar. Bryteren i midten bytter inngang og utgang og muter (for stemming). Når brettet er i bass-modus går signalet Stemmer → Kompressor → Bass-preamp. Og når det er i akk-modus går det Stemmer → Klang → Akk-preamp.
 ![[Chris-side-1.jpeg]]
