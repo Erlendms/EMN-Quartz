@@ -1,8 +1,11 @@
 ---
 title: Pris og kontaktinfo 💫
 ---
-Dersom noe fra *[[Eksempler og galleri]]* virka interessant, så tar jeg gjerne en uforpliktende prat. **Jeg er fortsatt i modusen hvor jeg tar meg grusomt dårlig betalt** (siden jeg er såpass nyoppstarta)**, så anbefaler å gjøre det nå!**
+<div class="navigation-links"><a href="https://erlendmekkernice.cool/Eksempler-og-galleri">Eksempler og galleri</a><a href="https://erlendmekkernice.cool/Pris-og-kontaktinfo">Pris og kontaktinfo</a><a href="https://erlendmekkernice.cool/Til-salgs">Til salgs</a>
+</div>
 
+Dersom noe fra *[[Eksempler og galleri]]* virka interessant, så tar jeg gjerne en uforpliktende prat. **Jeg er fortsatt i modusen hvor jeg tar meg grusomt dårlig betalt** (siden jeg er såpass nyoppstarta)**, så anbefaler å gjøre det nå!**
+![[45ADDF49-239B-4CCF-9236-F003F853FE42_1_105_c.jpeg]]
 ## Pedalbrett
 
 **For arbeidet tar jeg mellom kr 2.000 og kr 6.000.**

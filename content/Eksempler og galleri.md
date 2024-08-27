@@ -1,7 +1,7 @@
 ---
 title: Eksempler og galleri 💫
 ---
-<div class="navigation-links"><a href="https://erlendmekkernice.cool/Eksempler-og-galleri">Eksempler og galleri</a><a href="https://erlendmekkernice.cool/Pris-og-kontaktinfo">Pris og kontaktinfo</a><a href="https://havn.blog">Blog</a>
+<div class="navigation-links"><a href="https://erlendmekkernice.cool/Eksempler-og-galleri">Eksempler og galleri</a><a href="https://erlendmekkernice.cool/Pris-og-kontaktinfo">Pris og kontaktinfo</a><a href="https://erlendmekkernice.cool/Til-salgs">Til salgs</a>
 </div>
 
 Her er noen av bretta jeg har mekka, og hva som var hensikten/bestillinga.
