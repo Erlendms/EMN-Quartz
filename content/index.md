@@ -24,4 +24,6 @@ Dette blir *nice*. 👌🏻
 
 -Erlend
 
-![[glitter.webp]]
+![[glitter-2.webp]]
+
+![[glitter-3.webp]]
