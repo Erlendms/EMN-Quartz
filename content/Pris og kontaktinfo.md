@@ -38,6 +38,7 @@ Her er noen alternative måter å ta kontakt med meg:
 
 Jeg gjør også enkle reparasjoner av pedaler, bistår innkjøp og hjelper til med ting som øvingslokale, hjemmestudio, etc.
 ![[pedalrep.jpg]]
+![[F93AAB48-F5EF-4BCB-A5B8-5F02388CF91D_1_105_c.jpeg]]
 ![[studio-1.jpeg]]
 ![[studio-2.jpeg]]
 ![[kontor-1.jpeg]]
