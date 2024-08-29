@@ -31,6 +31,7 @@ Her er noen alternative måter å ta kontakt med meg:
 * [Mail](mailto:erlend@emn.cool)
 * [Telegram](https://t.me/erlendms)
 * [Signal](https://signal.me/#eu/uj7OAFJT-V1YYCfR5-tvvSvOCDyugV5Ew2rxJiLpL1K7onV2tUZD74VVchrjQB1i)
+* [iMessage](imessage://post@havn.online)
 * [Pixelfed](https://pixelfed.sovial/erlendm) (inkludert Mastodon etc.)
 * [Instagram](https://instagram.com/erlendmekkernice)
 
