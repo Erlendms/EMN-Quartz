@@ -18,7 +18,7 @@ Resten avhenger av hva slags rigg det blir. Ting som kan komme i tillegg er str�
 (Priser er ekskl. mva.)
 ## Slik funker det:
 
-1. Vi tar en prat, og finner ut hva du kunne tenke deg.
+1. Vi tar en prat, og finner ut hva du kunne tenke deg. Fortell meg hvilke pedaler du har, evt. hva du mangler, og hvilke funksjoner/bruksområder du ser for deg.
 2. Så lager jeg en tegning med et forslag.
 3. Når vi har landa på en løsning, regner jeg ut et prisoverslag.
 4. Jeg fakturerer for delene.
