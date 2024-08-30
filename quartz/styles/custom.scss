@@ -208,6 +208,12 @@ video,
 img:nth-of-type(even) {
   transform: rotate(-1deg);
 }
+img:nth-of-type(4),
+img:nth-of-type(9),
+img:nth-of-type(12) {
+  transform: unset;
+}
+
 img:nth-of-type(3),
 img:nth-of-type(8),
 img:nth-of-type(14),
