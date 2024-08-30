@@ -52,7 +52,7 @@ Det fine her, er at det for eksempel fint også kan brukes kun som bass-brett p�
 ### Brett 5: El- og akk-gitar – stereo
 ![[Markus-over.jpeg]]
 **Formål og bruksområde:** Heftig brett til akk- og el-gitar, med sistnevnte i stereo. Både innganger og utganger byttes med ett trykk på den lille beige oppe til høyre. Og i akk-modus brukes bare volum, tuner, delay og klang. (Er jo litt styr å måtte skru av alle vrengpedalene bare fordi man vil spille litt kassegitar!)
-![[76B5E0E4-B067-4BD5-8057-6A95AC9A3B5D_1_105_c.jpeg]]
+![[Markus-side-nice-webp.webp]]
 ![[Markus-side.jpeg]]
 Alt av kontakter på høyresida – selvsagt fargekoda! Fra høyre: 
 * Strøm
@@ -61,6 +61,7 @@ Alt av kontakter på høyresida – selvsagt fargekoda! Fra høyre:
 * El ut R (jack) og El ut L (jack). Disse tappes _før_ amp-simmen.
 * Akk ut (XLR)
 * El ut R (XLR) og El ut L (XLR). Disse tappes *etter* amp-simmen.
+
 ![[Markus-under.jpeg]]
 Where the magic happens! To fjernstyrte AB-brytere (én for inngangene og én for utgangene), som bytter mellom akk- og el-. *Summing amp* for å få akk-gitaren til å hoppe over vreng-kretsen (denne mutes forøvrig når brettet er i akk-modus, så pedalene ikke skal støye mens man spiller akk). Splitter for å tappe jack-utgangene før amp-sim, DI-bokser, og strøm til alt.
 
