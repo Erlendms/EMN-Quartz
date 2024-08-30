@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      Pixelfed: "https://pixefed.social/erlendm",
+      Pixelfed: "https://pixelfed.social/erlendm",
       Instagram: "https://instagram.com/erlendmekkernice",
       Band: "https://klondike.band",
     },
