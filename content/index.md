@@ -22,4 +22,5 @@ Ta en kikk på *[[Eksempler og galleri]]* – og hvis det virker interessant, sj
 
 Dette blir *nice*. 👌🏻
 
--Erlendr
+-Erlend
+![[Forsidebilde-2.webp]]
