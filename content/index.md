@@ -7,7 +7,7 @@ title: Erlend Mekker Nice 💫
 <div class="navigation-links"><a href="https://erlendmekkernice.cool/Eksempler-og-galleri">Eksempler og galleri</a><a href="https://erlendmekkernice.cool/Pris-og-kontaktinfo">Pris og kontaktinfo</a><a href="https://erlendmekkernice.cool/Til-salgs">Til salgs</a>
 </div>
 
-![[76B5E0E4-B067-4BD5-8057-6A95AC9A3B5D_1_105_c.jpeg]]
+![[Markus-forside-1.webp]]
 
 ### Her er noen scenarioer hvor hjelp av meg kan være nyttig:
 
