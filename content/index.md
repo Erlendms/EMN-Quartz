@@ -24,3 +24,4 @@ Dette blir *nice*. 👌🏻
 
 -Erlend
 ![[Forsidebilde-2.webp]]
+<div id="footer-fix"></div>
