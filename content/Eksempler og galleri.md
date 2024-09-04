@@ -52,7 +52,7 @@ Det fine her, er at det for eksempel fint også kan brukes kun som bass-brett p�
 ### Brett 5: El- og akk-gitar – stereo
 ![[Markus-over.jpeg]]
 **Formål og bruksområde:** Heftig brett til akk- og el-gitar, med sistnevnte i stereo. Både innganger og utganger byttes med ett trykk på den lille beige oppe til høyre. Og i akk-modus brukes bare volum, tuner, delay og klang. (Er jo litt styr å måtte skru av alle vrengpedalene bare fordi man vil spille litt kassegitar!)
-![[Markus-side-nice-webp.webp]]
+![[Forsidebilde.webp]]
 ![[Markus-side.jpeg]]
 Alt av kontakter på høyresida – selvsagt fargekoda! Fra høyre: 
 * Strøm
