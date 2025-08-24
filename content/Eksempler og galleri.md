@@ -6,11 +6,6 @@ title: Eksempler og galleri 💫
 
 Her er noen av bretta jeg har mekka, og hva som var hensikten/bestillinga.
 
-1. List item 1
-2. List item 2d
-4. List item 4
-
-
 ---
 
 ### Brett 1: Bass + akk-gitar
@@ -69,6 +64,17 @@ Alt av kontakter på høyresida – selvsagt fargekoda! Fra høyre:
 
 ![[Markus-under.jpeg]]
 Where the magic happens! To fjernstyrte AB-brytere (én for inngangene og én for utgangene), som bytter mellom akk- og el-. *Summing amp* for å få akk-gitaren til å hoppe over vreng-kretsen (denne mutes forøvrig når brettet er i akk-modus, så pedalene ikke skal støye mens man spiller akk). Splitter for å tappe jack-utgangene før amp-sim, DI-bokser, og strøm til alt.
+
+---
+### Brett 6: Stereo-bassrigg, med innebygd DI
+![[Erlend2_over.jpeg]]
+**Formål og bruksområde:** Bass-rigg for 2 basser, som skal kunne sende fin stereo-lyd rett til bordet.
+![[Erlend2_side1.jpeg]]
+Strøm og inngang for to basser. De byttes mellom med en hjemmelaga AB-switch-prototype oppå brettet.
+![[Erlend2_side2.jpeg]]
+USB-C-ladeport (fra strømforsyninga), balanserte stereo-utganger og venstre-kanalen til amp. Går fint uten — men bare å be om høyre-kanalen i monitor, så mister du ikke noe i lyttinga.
+![[Erlend2_under.jpeg]]
+Mye snacks under brettet: Strømforsyning, stereo-DI, Lightning Boy-trafo og LPF/HPF-pedal.
 
 ---
 Jeg håper noe av dette trigga fantasien litt! Jeg tar gjerne [en prat](https://erlendmekkernice.cool/Pris-og-kontaktinfo) for å finne ut hva som kan være en god løsning for at akkurat ditt musikkliv kan bli litt mer *nice*.

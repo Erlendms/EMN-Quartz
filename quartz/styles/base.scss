@@ -4,7 +4,7 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 2rem;
+  scroll-padding-top: 3rem;
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
@@ -476,10 +476,10 @@ img {
   margin: 1rem 0;
 }
 
-p > img + em {
+/* p > img + em {
   display: block;
   transform: translateY(-1rem);
-}
+} */
 
 hr {
   width: 100%;
