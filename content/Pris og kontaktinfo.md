@@ -8,10 +8,10 @@ Dersom noe fra *[[Eksempler og galleri]]* virka interessant, så tar jeg gjerne 
 ![[45ADDF49-239B-4CCF-9236-F003F853FE42_1_105_c.jpeg]]
 ## Pedalbrett
 
-**For arbeidet tar jeg mellom kr 2.000 og kr 6.000.**
+**For arbeidet tar jeg mellom kr 2.000 og kr 10.000.**
 **I tillegg kommer dét jeg bruker av deler.**
 
-Pedalbrettene fra *Temple* koster mellom kr 1.080 og kr 1.800, og softcase koster mellom 640 kr og 1.080 kr. Hver pedal bruker fester som koster mellom 36 kr og kr 52.
+Pedalbrettene fra *Temple* koster mellom kr 1.360 og kr 2.320, og softcase koster mellom 1.000 kr og 1.500 kr. Hver pedal bruker fester som koster mellom 47 kr og kr 72.
 
 Resten avhenger av hva slags rigg det blir. Ting som kan komme i tillegg er strømforsyning, kontakter til sideplatene, patch-kabler, osv.
 

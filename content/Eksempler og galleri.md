@@ -6,6 +6,11 @@ title: Eksempler og galleri 💫
 
 Her er noen av bretta jeg har mekka, og hva som var hensikten/bestillinga.
 
+1. List item 1
+2. List item 2d
+4. List item 4
+
+
 ---
 
 ### Brett 1: Bass + akk-gitar
